@@ -1,0 +1,11 @@
+{
+  "name": "gar-rn-styles",
+  "version": "0.3.0",
+  "description": "Styles module with support display sizes for react native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anton Yashyn <dev@makehelp.net>",
+  "license": "ISC"
+}
